@@ -10,6 +10,8 @@
 
 TaiL revolutionizes storytelling by removing static barriers, enabling a dynamic adventure crafted by the user. It's a platform where user choice and AI-driven narrative blend seamlessly, creating personalized story experiences. Built with the latest web technologies, TaiL is designed for scalability and immersive engagement, offering a new approach to interactive storytelling.
 
+![TaiL Info](images/info.png)
+
 ## 💻 Technologies Used
 
 - **Frontend:** NEXT.js 14, Tailwind CSS, Redux
