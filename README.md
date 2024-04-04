@@ -1,6 +1,6 @@
 # 🌟 TaiL: Dynamic Storytelling Platform
 
-![TaiL Banner](images/tailBanner.webp)
+![TaiL Banner](images/homePage.png)
 
 **Website:** [TaiL](https://tail-adventures.com)
 
