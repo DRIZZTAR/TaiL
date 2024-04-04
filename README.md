@@ -1,5 +1,7 @@
 # 🌟 TaiL: Dynamic Storytelling Platform
 
+![TaiL Banner](images/tailBanner.webp)
+
 **Website:** [TaiL](https://tail-adventures.com)
 
 **Github Repo:** [TaiL Repository](https://github.com/nathansmith-ux/final)
