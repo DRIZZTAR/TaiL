@@ -2,8 +2,6 @@
 
 ![TaiL Banner](images/homePage.png)
 
-**Website:** [TaiL](https://tail-adventures.com)
-
 **Github Repo:** [TaiL Repository](https://github.com/nathansmith-ux/final)
 
 ## 📖 Description
